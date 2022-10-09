@@ -2,4 +2,6 @@
 
 This is a sample repo, hello world!
 
+This is second change.
+
 .md = Mark Down
